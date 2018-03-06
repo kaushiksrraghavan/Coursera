@@ -1,1 +1,1 @@
-# Includes the files of the courses that i took on coursera
+# Includes course files of courses i took on coursera
